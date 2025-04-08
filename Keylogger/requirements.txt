@@ -1,6 +1,0 @@
-pynput
-pyperclip
-pillow
-scapy
-win32gui
-pygetwindow
